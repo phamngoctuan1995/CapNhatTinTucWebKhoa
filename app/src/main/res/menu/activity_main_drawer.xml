@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/tinhoatdong"
+            android:title="Tin hoạt động" />
+        <item
+            android:id="@+id/tinnguoihoc"
+            android:title="Tin dành cho người học" />
+        <item
+            android:id="@+id/tincbnv"
+            android:title="Tin dành cho CBNV" />
+    </group>
+
+</menu>
